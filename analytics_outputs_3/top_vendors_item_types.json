@@ -1,0 +1,30 @@
+{"vendor_id":2,"vendor_name":"Gucci","item_type":"Heels","total_quantity":3135,"rank":1}
+{"vendor_id":2,"vendor_name":"Gucci","item_type":"Scarves","total_quantity":3098,"rank":2}
+{"vendor_id":2,"vendor_name":"Gucci","item_type":"Coats","total_quantity":2821,"rank":3}
+{"vendor_id":4,"vendor_name":"Prada","item_type":"Scarves","total_quantity":2922,"rank":1}
+{"vendor_id":4,"vendor_name":"Prada","item_type":"Slippers","total_quantity":2863,"rank":2}
+{"vendor_id":4,"vendor_name":"Prada","item_type":"Heels","total_quantity":2635,"rank":3}
+{"vendor_id":24,"vendor_name":"Ralph Lauren","item_type":"Boxers","total_quantity":3259,"rank":1}
+{"vendor_id":24,"vendor_name":"Ralph Lauren","item_type":"Underwear","total_quantity":3014,"rank":2}
+{"vendor_id":24,"vendor_name":"Ralph Lauren","item_type":"Pants","total_quantity":2846,"rank":3}
+{"vendor_id":25,"vendor_name":"Calvin Klein","item_type":"Robes","total_quantity":2952,"rank":1}
+{"vendor_id":25,"vendor_name":"Calvin Klein","item_type":"Tracksuits","total_quantity":2884,"rank":2}
+{"vendor_id":25,"vendor_name":"Calvin Klein","item_type":"Vests","total_quantity":2774,"rank":3}
+{"vendor_id":26,"vendor_name":"Tommy Hilfiger","item_type":"Boxers","total_quantity":2892,"rank":1}
+{"vendor_id":26,"vendor_name":"Tommy Hilfiger","item_type":"Blazers","total_quantity":2878,"rank":2}
+{"vendor_id":26,"vendor_name":"Tommy Hilfiger","item_type":"Vests","total_quantity":2774,"rank":3}
+{"vendor_id":59,"vendor_name":"Zara","item_type":"Tunics","total_quantity":3523,"rank":1}
+{"vendor_id":59,"vendor_name":"Zara","item_type":"Overalls","total_quantity":2969,"rank":2}
+{"vendor_id":59,"vendor_name":"Zara","item_type":"Tank Tops","total_quantity":2763,"rank":3}
+{"vendor_id":60,"vendor_name":"H&M","item_type":"Tunics","total_quantity":3699,"rank":1}
+{"vendor_id":60,"vendor_name":"H&M","item_type":"Overalls","total_quantity":3457,"rank":2}
+{"vendor_id":60,"vendor_name":"H&M","item_type":"Underwear","total_quantity":3274,"rank":3}
+{"vendor_id":87,"vendor_name":"Gap","item_type":"Boxers","total_quantity":3351,"rank":1}
+{"vendor_id":87,"vendor_name":"Gap","item_type":"Overalls","total_quantity":3328,"rank":2}
+{"vendor_id":87,"vendor_name":"Gap","item_type":"Scarves","total_quantity":2963,"rank":3}
+{"vendor_id":258,"vendor_name":"Dior","item_type":"Caps","total_quantity":2581,"rank":1}
+{"vendor_id":258,"vendor_name":"Dior","item_type":"Primer","total_quantity":2373,"rank":2}
+{"vendor_id":258,"vendor_name":"Dior","item_type":"Setting Spray","total_quantity":2343,"rank":3}
+{"vendor_id":291,"vendor_name":"L'Or\u00e9al Paris","item_type":"Night Cream","total_quantity":3138,"rank":1}
+{"vendor_id":291,"vendor_name":"L'Or\u00e9al Paris","item_type":"Makeup Remover","total_quantity":2587,"rank":2}
+{"vendor_id":291,"vendor_name":"L'Or\u00e9al Paris","item_type":"Mascara","total_quantity":2520,"rank":3}

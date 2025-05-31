@@ -1,0 +1,26 @@
+{
+  "scenario": "customer_segmentation",
+  "batch_id": "customer_segmentation_1748642203",
+  "timestamp": "2025-05-31 02:59:03.140242",
+  "silhouette_score": 0.4559501052366189,
+  "cluster_count": 5,
+  "cluster_names": [
+    "High Value",
+    "Regular",
+    "New Customer",
+    "At Risk",
+    "Inactive"
+  ],
+  "business_insights": [
+    "High Value customers show 3x higher average order value",
+    "At Risk customers have declining purchase frequency",
+    "New customers require onboarding optimization",
+    "Regular customers drive 60% of total revenue"
+  ],
+  "recommendations": [
+    "Implement VIP program for High Value customers",
+    "Create win-back campaigns for At Risk segment",
+    "Optimize onboarding flow for New Customers",
+    "Develop loyalty rewards for Regular customers"
+  ]
+}

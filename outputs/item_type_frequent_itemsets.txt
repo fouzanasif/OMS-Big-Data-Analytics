@@ -1,0 +1,243 @@
+=== FREQUENT ITEM TYPE ITEMSETS ===
+
+1-Itemsets (Individual Item Types):
+  Abayas: 0.0651
+  Backpacks: 0.0679
+  Beachwear: 0.0663
+  Beauty Blender: 0.0674
+  Belts: 0.0670
+  Blazers: 0.0668
+  Blouses: 0.0681
+  Blush: 0.0698
+  Boots: 0.0663
+  Boxers: 0.0685
+  Bras: 0.0671
+  Caps: 0.0670
+  Cardigans: 0.0689
+  Coats: 0.0690
+  Compact Powder: 0.0684
+  Concealer: 0.0672
+  Dresses: 0.0684
+  Dupattas: 0.0664
+  Eyebrow Pencil: 0.0658
+  Eyeliner: 0.0675
+  Eyeshadow: 0.0656
+  Face Mask: 0.0676
+  Face Scrub: 0.0680
+  Face Serum: 0.0673
+  Face Wash: 0.0676
+  Flip Flops: 0.0651
+  Formal Shoes: 0.0676
+  Foundation: 0.0682
+  Gloves: 0.0685
+  Handbags: 0.0695
+  Hats: 0.0688
+  Heels: 0.0668
+  Highlighter: 0.0682
+  Hoodies: 0.0664
+  Jackets: 0.0670
+  Jeans: 0.0694
+  Jumpsuits: 0.0655
+  Kohl: 0.0645
+  Kurtas: 0.0664
+  Leggings: 0.0664
+  Lehengas: 0.0678
+  Lingerie Sets: 0.0676
+  Lip Balm: 0.0663
+  Lip Gloss: 0.0676
+  Lipstick: 0.0707
+  Loafers: 0.0668
+  Makeup Brushes: 0.0660
+  Makeup Remover: 0.0704
+  Mascara: 0.0672
+  Moisturizer: 0.0653
+  Nail Polish: 0.0655
+  Nail Polish Remover: 0.0666
+  Night Cream: 0.0673
+  Nightgowns: 0.0668
+  Overalls: 0.0686
+  Panties: 0.0692
+  Pants: 0.0671
+  Primer: 0.0706
+  Pumps: 0.0659
+  Rings: 0.0542
+  Robes: 0.0658
+  Running Shoes: 0.0666
+  Sandals: 0.0680
+  Sarees: 0.0642
+  Scarves: 0.0661
+  Setting Spray: 0.0669
+  Shawls: 0.0650
+  Shirts: 0.0666
+  Shorts: 0.0658
+  Skirts: 0.0680
+  Sleepwear: 0.0674
+  Slippers: 0.0685
+  Sneakers: 0.0670
+  Suits: 0.0661
+  Sunglasses: 0.0675
+  Sunscreen: 0.0665
+  Sweaters: 0.0703
+  Swimwear: 0.0670
+  T-Shirts: 0.0679
+  Tank Tops: 0.0680
+  Ties: 0.0690
+  Tracksuits: 0.0679
+  Trousers: 0.0694
+  Tunics: 0.0695
+  Underwear: 0.0673
+  Vests: 0.0691
+  Wallets: 0.0650
+  Watches: 0.0673
+
+2-Itemsets (Item Type Pairs):
+  Backpacks + Caps: 0.0051
+  Backpacks + Cardigans: 0.0050
+  Backpacks + Highlighter: 0.0051
+  Backpacks + Primer: 0.0050
+  Beauty Blender + Handbags: 0.0051
+  Beauty Blender + Heels: 0.0053
+  Beauty Blender + Slippers: 0.0051
+  Belts + Makeup Remover: 0.0050
+  Belts + Sneakers: 0.0050
+  Blazers + Blush: 0.0050
+  Blazers + Face Scrub: 0.0050
+  Blazers + Highlighter: 0.0050
+  Blush + Compact Powder: 0.0052
+  Blush + Concealer: 0.0050
+  Blush + Foundation: 0.0051
+  Blush + Overalls: 0.0051
+  Blush + Panties: 0.0051
+  Blush + Slippers: 0.0052
+  Blush + Sweaters: 0.0051
+  Blush + Trousers: 0.0052
+  Boots + Lehengas: 0.0050
+  Boots + Lipstick: 0.0050
+  Boots + Sweaters: 0.0050
+  Boxers + Bras: 0.0050
+  Boxers + Compact Powder: 0.0052
+  Boxers + Lehengas: 0.0051
+  Boxers + Tunics: 0.0052
+  Bras + Handbags: 0.0050
+  Caps + Mascara: 0.0051
+  Caps + Primer: 0.0050
+  Cardigans + Jeans: 0.0053
+  Cardigans + Primer: 0.0051
+  Cardigans + Sneakers: 0.0050
+  Cardigans + Suits: 0.0050
+  Cardigans + Sunscreen: 0.0051
+  Cardigans + Sweaters: 0.0051
+  Cardigans + Vests: 0.0051
+  Coats + Foundation: 0.0050
+  Coats + Handbags: 0.0051
+  Coats + Hats: 0.0051
+  Coats + Lehengas: 0.0052
+  Coats + Primer: 0.0050
+  Coats + Suits: 0.0050
+  Coats + Tank Tops: 0.0051
+  Coats + Tracksuits: 0.0051
+  Coats + Watches: 0.0050
+  Compact Powder + Panties: 0.0052
+  Concealer + Lipstick: 0.0051
+  Concealer + Makeup Remover: 0.0051
+  Dresses + Formal Shoes: 0.0050
+  Dresses + Handbags: 0.0052
+  Dresses + Makeup Remover: 0.0051
+  Dresses + Slippers: 0.0051
+  Dresses + T-Shirts: 0.0051
+  Dupattas + Panties: 0.0051
+  Eyebrow Pencil + Hats: 0.0050
+  Eyeliner + Lipstick: 0.0051
+  Face Scrub + Handbags: 0.0050
+  Face Scrub + Lip Gloss: 0.0051
+  Face Scrub + Night Cream: 0.0050
+  Face Scrub + Swimwear: 0.0051
+  Face Scrub + Tunics: 0.0050
+  Face Scrub + Underwear: 0.0050
+  Face Serum + Primer: 0.0051
+  Face Serum + Sweaters: 0.0052
+  Face Wash + Primer: 0.0050
+  Face Wash + Sweaters: 0.0051
+  Face Wash + Tunics: 0.0050
+  Formal Shoes + Highlighter: 0.0051
+  Formal Shoes + Lipstick: 0.0051
+  Formal Shoes + Primer: 0.0050
+  Formal Shoes + Sweaters: 0.0052
+  Foundation + Gloves: 0.0051
+  Foundation + Sweaters: 0.0050
+  Foundation + Trousers: 0.0050
+  Gloves + Lingerie Sets: 0.0052
+  Gloves + Lipstick: 0.0051
+  Gloves + Robes: 0.0051
+  Gloves + Slippers: 0.0050
+  Gloves + Ties: 0.0050
+  Handbags + Jeans: 0.0050
+  Handbags + Lip Gloss: 0.0051
+  Handbags + Loafers: 0.0050
+  Handbags + Panties: 0.0051
+  Handbags + Primer: 0.0051
+  Hats + Jeans: 0.0050
+  Hats + Kurtas: 0.0051
+  Hats + Overalls: 0.0052
+  Hats + Tunics: 0.0050
+  Highlighter + Jeans: 0.0051
+  Highlighter + Primer: 0.0051
+  Jackets + Makeup Remover: 0.0052
+  Jackets + Sandals: 0.0051
+  Jeans + Lingerie Sets: 0.0050
+  Jeans + Lipstick: 0.0053
+  Jeans + Panties: 0.0051
+  Jeans + Primer: 0.0054
+  Jeans + Skirts: 0.0050
+  Jeans + Sunglasses: 0.0053
+  Jeans + Trousers: 0.0050
+  Lehengas + Lipstick: 0.0052
+  Lehengas + Vests: 0.0052
+  Lip Balm + Lip Gloss: 0.0050
+  Lip Gloss + Primer: 0.0052
+  Lip Gloss + Trousers: 0.0051
+  Lip Gloss + Underwear: 0.0051
+  Lipstick + Makeup Remover: 0.0052
+  Lipstick + Nightgowns: 0.0051
+  Lipstick + Primer: 0.0052
+  Lipstick + Shirts: 0.0051
+  Lipstick + Sunglasses: 0.0050
+  Lipstick + Ties: 0.0051
+  Lipstick + Trousers: 0.0054
+  Lipstick + Tunics: 0.0051
+  Loafers + Tunics: 0.0050
+  Loafers + Watches: 0.0050
+  Makeup Brushes + Pumps: 0.0050
+  Makeup Remover + Nightgowns: 0.0053
+  Makeup Remover + Pumps: 0.0050
+  Makeup Remover + Sarees: 0.0052
+  Makeup Remover + Slippers: 0.0050
+  Makeup Remover + Sweaters: 0.0051
+  Makeup Remover + Trousers: 0.0051
+  Makeup Remover + Vests: 0.0050
+  Mascara + Sweaters: 0.0050
+  Night Cream + Overalls: 0.0050
+  Panties + Primer: 0.0051
+  Panties + Tunics: 0.0051
+  Panties + Vests: 0.0051
+  Pants + Slippers: 0.0052
+  Pants + T-Shirts: 0.0050
+  Primer + Sleepwear: 0.0051
+  Primer + Trousers: 0.0050
+  Primer + Vests: 0.0051
+  Pumps + Vests: 0.0050
+  Running Shoes + Trousers: 0.0051
+  Setting Spray + Tunics: 0.0050
+  Sleepwear + Sweaters: 0.0051
+  Sleepwear + Tunics: 0.0053
+  Slippers + Sweaters: 0.0051
+  Slippers + T-Shirts: 0.0052
+  Slippers + Ties: 0.0050
+  Slippers + Trousers: 0.0052
+  Sweaters + Trousers: 0.0050
+  T-Shirts + Vests: 0.0051
+  Ties + Vests: 0.0051
+  Trousers + Vests: 0.0051
+  Trousers + Wallets: 0.0051
+
+3-Itemsets (Item Type Triplets):

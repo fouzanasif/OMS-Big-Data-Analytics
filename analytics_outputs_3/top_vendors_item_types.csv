@@ -1,0 +1,31 @@
+vendor_id,vendor_name,item_type,total_quantity,rank
+2,Gucci,Heels,3135,1
+2,Gucci,Scarves,3098,2
+2,Gucci,Coats,2821,3
+4,Prada,Scarves,2922,1
+4,Prada,Slippers,2863,2
+4,Prada,Heels,2635,3
+24,Ralph Lauren,Boxers,3259,1
+24,Ralph Lauren,Underwear,3014,2
+24,Ralph Lauren,Pants,2846,3
+25,Calvin Klein,Robes,2952,1
+25,Calvin Klein,Tracksuits,2884,2
+25,Calvin Klein,Vests,2774,3
+26,Tommy Hilfiger,Boxers,2892,1
+26,Tommy Hilfiger,Blazers,2878,2
+26,Tommy Hilfiger,Vests,2774,3
+59,Zara,Tunics,3523,1
+59,Zara,Overalls,2969,2
+59,Zara,Tank Tops,2763,3
+60,H&M,Tunics,3699,1
+60,H&M,Overalls,3457,2
+60,H&M,Underwear,3274,3
+87,Gap,Boxers,3351,1
+87,Gap,Overalls,3328,2
+87,Gap,Scarves,2963,3
+258,Dior,Caps,2581,1
+258,Dior,Primer,2373,2
+258,Dior,Setting Spray,2343,3
+291,L'Oréal Paris,Night Cream,3138,1
+291,L'Oréal Paris,Makeup Remover,2587,2
+291,L'Oréal Paris,Mascara,2520,3

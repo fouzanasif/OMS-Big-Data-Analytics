@@ -1,0 +1,433 @@
+{"vendor_id":2,"vendor_name":"Gucci","total_orders":22862,"total_items_sold":75097,"total_revenue":19728111.7699999884}
+{"vendor_id":60,"vendor_name":"H&M","total_orders":21274,"total_items_sold":69308,"total_revenue":18494214.7800000124}
+{"vendor_id":4,"vendor_name":"Prada","total_orders":19373,"total_items_sold":63177,"total_revenue":17061553.5799999982}
+{"vendor_id":25,"vendor_name":"Calvin Klein","total_orders":18992,"total_items_sold":61649,"total_revenue":16271420.4600000083}
+{"vendor_id":24,"vendor_name":"Ralph Lauren","total_orders":18952,"total_items_sold":61631,"total_revenue":15998066.6300000008}
+{"vendor_id":59,"vendor_name":"Zara","total_orders":17516,"total_items_sold":56556,"total_revenue":14945608.8300000019}
+{"vendor_id":26,"vendor_name":"Tommy Hilfiger","total_orders":17071,"total_items_sold":55222,"total_revenue":14548741.5099999961}
+{"vendor_id":258,"vendor_name":"Dior","total_orders":16565,"total_items_sold":53454,"total_revenue":14218657.5900000054}
+{"vendor_id":291,"vendor_name":"L'Or\u00e9al Paris","total_orders":16630,"total_items_sold":53667,"total_revenue":14193423.1000000015}
+{"vendor_id":87,"vendor_name":"Gap","total_orders":14552,"total_items_sold":46689,"total_revenue":12414592.6699999943}
+{"vendor_id":5,"vendor_name":"Chanel","total_orders":14754,"total_items_sold":47192,"total_revenue":12357225.3799999896}
+{"vendor_id":61,"vendor_name":"Uniqlo","total_orders":13704,"total_items_sold":43736,"total_revenue":11603910.6100000124}
+{"vendor_id":32,"vendor_name":"Tory Burch","total_orders":12953,"total_items_sold":41211,"total_revenue":10844334.0600000042}
+{"vendor_id":265,"vendor_name":"Clinique","total_orders":12417,"total_items_sold":39253,"total_revenue":10341363.4400000013}
+{"vendor_id":293,"vendor_name":"Revlon","total_orders":12019,"total_items_sold":38307,"total_revenue":10098516.8500000015}
+{"vendor_id":292,"vendor_name":"Maybelline","total_orders":11757,"total_items_sold":37649,"total_revenue":10010921.6699999943}
+{"vendor_id":42,"vendor_name":"Nike","total_orders":11202,"total_items_sold":35544,"total_revenue":9465912.9700000007}
+{"vendor_id":276,"vendor_name":"Urban Decay","total_orders":10913,"total_items_sold":34463,"total_revenue":9356725.1099999975}
+{"vendor_id":43,"vendor_name":"Adidas","total_orders":11236,"total_items_sold":35423,"total_revenue":9244688.9200000037}
+{"vendor_id":294,"vendor_name":"CoverGirl","total_orders":10966,"total_items_sold":34820,"total_revenue":9125969.3800000027}
+{"vendor_id":264,"vendor_name":"Est\u00e9e Lauder","total_orders":10682,"total_items_sold":33947,"total_revenue":9067719.7000000011}
+{"vendor_id":259,"vendor_name":"YSL Beauty","total_orders":10856,"total_items_sold":34165,"total_revenue":8951087.0899999999}
+{"vendor_id":29,"vendor_name":"Michael Kors","total_orders":10525,"total_items_sold":33240,"total_revenue":8924110.7300000023}
+{"vendor_id":275,"vendor_name":"MAC Cosmetics","total_orders":10800,"total_items_sold":34232,"total_revenue":8906627.9800000004}
+{"vendor_id":277,"vendor_name":"Too Faced","total_orders":10722,"total_items_sold":33473,"total_revenue":8833385.2500000056}
+{"vendor_id":44,"vendor_name":"Puma","total_orders":10597,"total_items_sold":33586,"total_revenue":8764810.9699999988}
+{"vendor_id":290,"vendor_name":"Fenty Beauty","total_orders":10306,"total_items_sold":32780,"total_revenue":8701136.4199999999}
+{"vendor_id":23,"vendor_name":"Burberry","total_orders":10059,"total_items_sold":31820,"total_revenue":8468094.1400000025}
+{"vendor_id":435,"vendor_name":"NYX","total_orders":9647,"total_items_sold":30513,"total_revenue":8218462.6499999976}
+{"vendor_id":64,"vendor_name":"Mango","total_orders":9183,"total_items_sold":29197,"total_revenue":7882514.0300000031}
+{"vendor_id":37,"vendor_name":"Banana Republic","total_orders":9549,"total_items_sold":30128,"total_revenue":7867375.0099999961}
+{"vendor_id":36,"vendor_name":"J.Crew","total_orders":9212,"total_items_sold":28933,"total_revenue":7680616.1300000018}
+{"vendor_id":10,"vendor_name":"Saint Laurent","total_orders":9359,"total_items_sold":29110,"total_revenue":7652946.0299999975}
+{"vendor_id":403,"vendor_name":"Huda Beauty","total_orders":9283,"total_items_sold":29118,"total_revenue":7581168.9200000009}
+{"vendor_id":46,"vendor_name":"Under Armour","total_orders":8297,"total_items_sold":26117,"total_revenue":6762747.2700000023}
+{"vendor_id":12,"vendor_name":"Fendi","total_orders":7986,"total_items_sold":25017,"total_revenue":6630156.3999999985}
+{"vendor_id":283,"vendor_name":"Tarte","total_orders":7937,"total_items_sold":24948,"total_revenue":6533431.2200000016}
+{"vendor_id":30,"vendor_name":"Kate Spade","total_orders":7787,"total_items_sold":24627,"total_revenue":6502114.8499999968}
+{"vendor_id":7,"vendor_name":"Armani","total_orders":7437,"total_items_sold":23353,"total_revenue":6189747.4600000056}
+{"vendor_id":9,"vendor_name":"Balenciaga","total_orders":7433,"total_items_sold":23047,"total_revenue":6167110.2199999997}
+{"vendor_id":457,"vendor_name":"Bobbi Brown","total_orders":6789,"total_items_sold":21407,"total_revenue":5652057.6000000043}
+{"vendor_id":6,"vendor_name":"Versace","total_orders":6886,"total_items_sold":21448,"total_revenue":5640594.2399999974}
+{"vendor_id":114,"vendor_name":"Victoria's Secret","total_orders":6439,"total_items_sold":20204,"total_revenue":5491348.9199999981}
+{"vendor_id":302,"vendor_name":"Cetaphil","total_orders":6132,"total_items_sold":19396,"total_revenue":5288012.6100000003}
+{"vendor_id":62,"vendor_name":"Forever 21","total_orders":6272,"total_items_sold":19522,"total_revenue":5199181.8599999994}
+{"vendor_id":263,"vendor_name":"Lanc\u00f4me","total_orders":6305,"total_items_sold":19730,"total_revenue":5197419.0299999993}
+{"vendor_id":89,"vendor_name":"American Eagle","total_orders":6099,"total_items_sold":19107,"total_revenue":5149888.8199999994}
+{"vendor_id":8,"vendor_name":"Dolce & Gabbana","total_orders":6321,"total_items_sold":19628,"total_revenue":5110954.6500000022}
+{"vendor_id":467,"vendor_name":"PINK","total_orders":5871,"total_items_sold":18387,"total_revenue":4951171.959999999}
+{"vendor_id":14,"vendor_name":"Valentino","total_orders":5812,"total_items_sold":18322,"total_revenue":4756944.1499999985}
+{"vendor_id":409,"vendor_name":"La Roche-Posay","total_orders":5965,"total_items_sold":18562,"total_revenue":4754941.0299999993}
+{"vendor_id":410,"vendor_name":"Vichy","total_orders":5741,"total_items_sold":17881,"total_revenue":4729048.3900000006}
+{"vendor_id":297,"vendor_name":"Garnier","total_orders":5695,"total_items_sold":17829,"total_revenue":4667113.9000000013}
+{"vendor_id":284,"vendor_name":"IT Cosmetics","total_orders":5612,"total_items_sold":17760,"total_revenue":4644260.8999999994}
+{"vendor_id":301,"vendor_name":"Aveeno","total_orders":5597,"total_items_sold":17359,"total_revenue":4575017.7800000003}
+{"vendor_id":299,"vendor_name":"Nivea","total_orders":5741,"total_items_sold":17766,"total_revenue":4560950.330000001}
+{"vendor_id":413,"vendor_name":"Bioderma","total_orders":5539,"total_items_sold":17218,"total_revenue":4553416.4000000013}
+{"vendor_id":295,"vendor_name":"Neutrogena","total_orders":5638,"total_items_sold":17411,"total_revenue":4497536.9900000002}
+{"vendor_id":412,"vendor_name":"Eucerin","total_orders":5456,"total_items_sold":17052,"total_revenue":4483346.0399999982}
+{"vendor_id":280,"vendor_name":"NARS","total_orders":5235,"total_items_sold":16347,"total_revenue":4470531.5599999977}
+{"vendor_id":115,"vendor_name":"Calvin Klein Underwear","total_orders":5410,"total_items_sold":16841,"total_revenue":4411693.3500000015}
+{"vendor_id":244,"vendor_name":"The North Face","total_orders":5154,"total_items_sold":16022,"total_revenue":4327964.4300000006}
+{"vendor_id":99,"vendor_name":"Patagonia","total_orders":5334,"total_items_sold":16566,"total_revenue":4324385.4700000016}
+{"vendor_id":90,"vendor_name":"Hollister","total_orders":5271,"total_items_sold":16475,"total_revenue":4309238.4000000004}
+{"vendor_id":63,"vendor_name":"Topshop","total_orders":5065,"total_items_sold":15899,"total_revenue":4295397.71}
+{"vendor_id":27,"vendor_name":"Hugo Boss","total_orders":5269,"total_items_sold":16359,"total_revenue":4272125.1699999999}
+{"vendor_id":184,"vendor_name":"Biba","total_orders":5005,"total_items_sold":15721,"total_revenue":4252257.7400000012}
+{"vendor_id":185,"vendor_name":"Global Desi","total_orders":5194,"total_items_sold":16254,"total_revenue":4208056.8699999982}
+{"vendor_id":300,"vendor_name":"Dove","total_orders":5015,"total_items_sold":15578,"total_revenue":4170758.1500000004}
+{"vendor_id":296,"vendor_name":"Olay","total_orders":5107,"total_items_sold":15953,"total_revenue":4168933.7000000007}
+{"vendor_id":278,"vendor_name":"Benefit Cosmetics","total_orders":4970,"total_items_sold":15548,"total_revenue":4153710.4900000026}
+{"vendor_id":408,"vendor_name":"CeraVe","total_orders":4942,"total_items_sold":15381,"total_revenue":4027343.7999999984}
+{"vendor_id":529,"vendor_name":"Aerie","total_orders":4919,"total_items_sold":15250,"total_revenue":4020987.6799999992}
+{"vendor_id":183,"vendor_name":"W for Woman","total_orders":5080,"total_items_sold":15818,"total_revenue":4014207.7799999993}
+{"vendor_id":303,"vendor_name":"Simple","total_orders":4964,"total_items_sold":15283,"total_revenue":3989774.4800000009}
+{"vendor_id":439,"vendor_name":"Natori","total_orders":4807,"total_items_sold":14895,"total_revenue":3958185.6099999975}
+{"vendor_id":186,"vendor_name":"Anita Dongre","total_orders":4792,"total_items_sold":14906,"total_revenue":3938059.1899999999}
+{"vendor_id":31,"vendor_name":"Coach","total_orders":4610,"total_items_sold":14184,"total_revenue":3770513.7399999979}
+{"vendor_id":197,"vendor_name":"Janasya","total_orders":4266,"total_items_sold":13103,"total_revenue":3449298.1499999994}
+{"vendor_id":193,"vendor_name":"Ethnix","total_orders":4163,"total_items_sold":12730,"total_revenue":3428988.3399999989}
+{"vendor_id":335,"vendor_name":"Kiehl's","total_orders":4254,"total_items_sold":13235,"total_revenue":3428625.6700000004}
+{"vendor_id":349,"vendor_name":"Fresh","total_orders":4246,"total_items_sold":13015,"total_revenue":3421392.3100000005}
+{"vendor_id":191,"vendor_name":"Ritu Kumar","total_orders":4214,"total_items_sold":13087,"total_revenue":3376502.1700000009}
+{"vendor_id":194,"vendor_name":"Aurelia","total_orders":4074,"total_items_sold":12629,"total_revenue":3326629.0300000012}
+{"vendor_id":91,"vendor_name":"Abercrombie & Fitch","total_orders":3995,"total_items_sold":12435,"total_revenue":3286559.6800000002}
+{"vendor_id":182,"vendor_name":"Fabindia","total_orders":3936,"total_items_sold":12292,"total_revenue":3261397.5200000005}
+{"vendor_id":145,"vendor_name":"Sam Edelman","total_orders":3965,"total_items_sold":12323,"total_revenue":3243375.9100000011}
+{"vendor_id":402,"vendor_name":"Anastasia Beverly Hills","total_orders":3984,"total_items_sold":12187,"total_revenue":3218284.6600000001}
+{"vendor_id":125,"vendor_name":"Savage X Fenty","total_orders":3735,"total_items_sold":11579,"total_revenue":3161115.6500000008}
+{"vendor_id":93,"vendor_name":"Levi's","total_orders":3703,"total_items_sold":11429,"total_revenue":3133563.419999999}
+{"vendor_id":3,"vendor_name":"Herm\u00e8s","total_orders":3995,"total_items_sold":12513,"total_revenue":3132332.3099999987}
+{"vendor_id":352,"vendor_name":"The Body Shop","total_orders":3748,"total_items_sold":11528,"total_revenue":3093775.4100000011}
+{"vendor_id":40,"vendor_name":"COS","total_orders":3650,"total_items_sold":11299,"total_revenue":3089092.6200000006}
+{"vendor_id":124,"vendor_name":"ThirdLove","total_orders":3799,"total_items_sold":11815,"total_revenue":3066669.7399999998}
+{"vendor_id":35,"vendor_name":"Theory","total_orders":3775,"total_items_sold":11627,"total_revenue":3035595.9499999997}
+{"vendor_id":196,"vendor_name":"Libas","total_orders":3730,"total_items_sold":11418,"total_revenue":2979111.2200000007}
+{"vendor_id":38,"vendor_name":"Brooks Brothers","total_orders":3758,"total_items_sold":11507,"total_revenue":2977247.0099999998}
+{"vendor_id":454,"vendor_name":"Free People","total_orders":3616,"total_items_sold":11197,"total_revenue":2887882.6300000013}
+{"vendor_id":75,"vendor_name":"Nordstrom","total_orders":3244,"total_items_sold":10112,"total_revenue":2759002.9399999999}
+{"vendor_id":123,"vendor_name":"Journelle","total_orders":3254,"total_items_sold":10039,"total_revenue":2744965.8000000012}
+{"vendor_id":434,"vendor_name":"Madewell","total_orders":3198,"total_items_sold":9876,"total_revenue":2722531.7399999993}
+{"vendor_id":100,"vendor_name":"Columbia","total_orders":3286,"total_items_sold":10097,"total_revenue":2708468.8000000012}
+{"vendor_id":192,"vendor_name":"Good Earth","total_orders":3302,"total_items_sold":10235,"total_revenue":2671626.1699999999}
+{"vendor_id":1,"vendor_name":"Louis Vuitton","total_orders":3201,"total_items_sold":9850,"total_revenue":2632268.4100000001}
+{"vendor_id":83,"vendor_name":"Loft","total_orders":3008,"total_items_sold":9290,"total_revenue":2549551.1099999999}
+{"vendor_id":195,"vendor_name":"Rangmanch","total_orders":3090,"total_items_sold":9574,"total_revenue":2529083.5300000003}
+{"vendor_id":153,"vendor_name":"Clarks","total_orders":3088,"total_items_sold":9535,"total_revenue":2528430.7400000012}
+{"vendor_id":559,"vendor_name":"Eberjey","total_orders":3069,"total_items_sold":9521,"total_revenue":2521773.3499999992}
+{"vendor_id":146,"vendor_name":"Steve Madden","total_orders":3101,"total_items_sold":9617,"total_revenue":2490638.8900000001}
+{"vendor_id":82,"vendor_name":"Ann Taylor","total_orders":2929,"total_items_sold":9167,"total_revenue":2453203.6500000008}
+{"vendor_id":543,"vendor_name":"Jockey","total_orders":2817,"total_items_sold":8735,"total_revenue":2335877.9399999999}
+{"vendor_id":199,"vendor_name":"Sangria","total_orders":2683,"total_items_sold":8369,"total_revenue":2315429.9099999997}
+{"vendor_id":15,"vendor_name":"Tom Ford","total_orders":2690,"total_items_sold":8456,"total_revenue":2302482.98}
+{"vendor_id":198,"vendor_name":"Varanga","total_orders":2861,"total_items_sold":8777,"total_revenue":2231074.2400000002}
+{"vendor_id":430,"vendor_name":"Sperry","total_orders":2739,"total_items_sold":8377,"total_revenue":2218591.0100000002}
+{"vendor_id":466,"vendor_name":"Salvatore Ferragamo","total_orders":2678,"total_items_sold":8425,"total_revenue":2187997.48}
+{"vendor_id":527,"vendor_name":"Maidenform","total_orders":2562,"total_items_sold":7881,"total_revenue":2124393.6199999992}
+{"vendor_id":444,"vendor_name":"Anthropologie","total_orders":2679,"total_items_sold":8189,"total_revenue":2117325.9499999997}
+{"vendor_id":34,"vendor_name":"Diane von Furstenberg","total_orders":2493,"total_items_sold":7911,"total_revenue":2112164.98}
+{"vendor_id":47,"vendor_name":"New Balance","total_orders":2623,"total_items_sold":8010,"total_revenue":2097111.6700000002}
+{"vendor_id":155,"vendor_name":"Crocs","total_orders":2568,"total_items_sold":7869,"total_revenue":2057950.1799999995}
+{"vendor_id":441,"vendor_name":"Alo Yoga","total_orders":2568,"total_items_sold":7862,"total_revenue":2054850.870000001}
+{"vendor_id":45,"vendor_name":"Reebok","total_orders":2425,"total_items_sold":7593,"total_revenue":2014736.3099999998}
+{"vendor_id":485,"vendor_name":"Lululemon","total_orders":2542,"total_items_sold":7848,"total_revenue":1997761.0899999994}
+{"vendor_id":150,"vendor_name":"UGG","total_orders":2423,"total_items_sold":7380,"total_revenue":1997292.9100000001}
+{"vendor_id":11,"vendor_name":"Bottega Veneta","total_orders":2541,"total_items_sold":7877,"total_revenue":1972006.6499999997}
+{"vendor_id":233,"vendor_name":"Carhartt","total_orders":2462,"total_items_sold":7466,"total_revenue":1953345.8700000001}
+{"vendor_id":427,"vendor_name":"Athleta","total_orders":2396,"total_items_sold":7348,"total_revenue":1950119.25}
+{"vendor_id":159,"vendor_name":"Ecco","total_orders":2311,"total_items_sold":7246,"total_revenue":1928414.4299999999}
+{"vendor_id":77,"vendor_name":"Bloomingdale's","total_orders":2395,"total_items_sold":7463,"total_revenue":1900785.9600000009}
+{"vendor_id":122,"vendor_name":"Fleur du Mal","total_orders":2270,"total_items_sold":7007,"total_revenue":1838886.8899999997}
+{"vendor_id":401,"vendor_name":"Morphe","total_orders":2138,"total_items_sold":6716,"total_revenue":1796929.8100000005}
+{"vendor_id":289,"vendor_name":"Glossier","total_orders":2167,"total_items_sold":6603,"total_revenue":1769954.1199999999}
+{"vendor_id":405,"vendor_name":"Charlotte Tilbury","total_orders":2218,"total_items_sold":6927,"total_revenue":1764922.6200000003}
+{"vendor_id":52,"vendor_name":"Champion","total_orders":2148,"total_items_sold":6661,"total_revenue":1757150.7100000009}
+{"vendor_id":607,"vendor_name":"Fruit of the Loom","total_orders":2125,"total_items_sold":6432,"total_revenue":1750844.6100000003}
+{"vendor_id":493,"vendor_name":"Soma","total_orders":2090,"total_items_sold":6474,"total_revenue":1717449.1900000006}
+{"vendor_id":246,"vendor_name":"Arc'teryx","total_orders":2077,"total_items_sold":6318,"total_revenue":1713162.29}
+{"vendor_id":519,"vendor_name":"Everlane","total_orders":2035,"total_items_sold":6306,"total_revenue":1690466.79}
+{"vendor_id":41,"vendor_name":"Acne Studios","total_orders":2023,"total_items_sold":6304,"total_revenue":1657974.3}
+{"vendor_id":189,"vendor_name":"Tarun Tahiliani","total_orders":2106,"total_items_sold":6423,"total_revenue":1653338.9400000004}
+{"vendor_id":490,"vendor_name":"Philosophy","total_orders":2161,"total_items_sold":6487,"total_revenue":1636705.1900000004}
+{"vendor_id":119,"vendor_name":"Hanky Panky","total_orders":1984,"total_items_sold":6058,"total_revenue":1583895.7799999996}
+{"vendor_id":121,"vendor_name":"Cosabella","total_orders":1994,"total_items_sold":6123,"total_revenue":1580479.4699999997}
+{"vendor_id":305,"vendor_name":"St. Ives","total_orders":2095,"total_items_sold":6395,"total_revenue":1573868.5499999993}
+{"vendor_id":304,"vendor_name":"Clean & Clear","total_orders":1903,"total_items_sold":5815,"total_revenue":1549404.9399999999}
+{"vendor_id":531,"vendor_name":"Wacoal","total_orders":1879,"total_items_sold":5799,"total_revenue":1545997.2099999997}
+{"vendor_id":502,"vendor_name":"Chantelle","total_orders":1954,"total_items_sold":6009,"total_revenue":1535408.0999999996}
+{"vendor_id":178,"vendor_name":"Herschel","total_orders":1917,"total_items_sold":5962,"total_revenue":1529773.5700000005}
+{"vendor_id":523,"vendor_name":"Nails Inc","total_orders":1681,"total_items_sold":5259,"total_revenue":1512784.4400000009}
+{"vendor_id":66,"vendor_name":"ASOS","total_orders":1949,"total_items_sold":6020,"total_revenue":1510683.52}
+{"vendor_id":188,"vendor_name":"Manish Malhotra","total_orders":1990,"total_items_sold":6125,"total_revenue":1505713.4299999995}
+{"vendor_id":589,"vendor_name":"Badgley Mischka","total_orders":1857,"total_items_sold":5712,"total_revenue":1496790.1499999997}
+{"vendor_id":148,"vendor_name":"Jessica Simpson","total_orders":1828,"total_items_sold":5569,"total_revenue":1492398.8100000001}
+{"vendor_id":48,"vendor_name":"ASICS","total_orders":1816,"total_items_sold":5554,"total_revenue":1486368.6799999995}
+{"vendor_id":187,"vendor_name":"Sabyasachi","total_orders":1850,"total_items_sold":5641,"total_revenue":1483207.3900000001}
+{"vendor_id":147,"vendor_name":"Nine West","total_orders":1844,"total_items_sold":5516,"total_revenue":1456688.4899999998}
+{"vendor_id":471,"vendor_name":"Isotoner","total_orders":1736,"total_items_sold":5409,"total_revenue":1452421.52}
+{"vendor_id":472,"vendor_name":"Warners","total_orders":1605,"total_items_sold":4927,"total_revenue":1452173.8900000001}
+{"vendor_id":279,"vendor_name":"Sephora Collection","total_orders":1927,"total_items_sold":5854,"total_revenue":1433391.3900000001}
+{"vendor_id":438,"vendor_name":"Tod's","total_orders":1757,"total_items_sold":5458,"total_revenue":1422515.1999999997}
+{"vendor_id":623,"vendor_name":"Hanes","total_orders":1812,"total_items_sold":5506,"total_revenue":1413055.1299999999}
+{"vendor_id":462,"vendor_name":"Aquazzura","total_orders":1766,"total_items_sold":5338,"total_revenue":1408133.4700000002}
+{"vendor_id":156,"vendor_name":"Birkenstock","total_orders":1651,"total_items_sold":5022,"total_revenue":1392712.0700000001}
+{"vendor_id":141,"vendor_name":"Jimmy Choo","total_orders":1719,"total_items_sold":5211,"total_revenue":1392236.4900000002}
+{"vendor_id":450,"vendor_name":"Tommy Bahama","total_orders":1749,"total_items_sold":5332,"total_revenue":1390867.6499999999}
+{"vendor_id":143,"vendor_name":"Stuart Weitzman","total_orders":1575,"total_items_sold":4840,"total_revenue":1384761.8399999999}
+{"vendor_id":482,"vendor_name":"Gianvito Rossi","total_orders":1691,"total_items_sold":5164,"total_revenue":1379131.04}
+{"vendor_id":248,"vendor_name":"Marmot","total_orders":1616,"total_items_sold":5003,"total_revenue":1374760.03}
+{"vendor_id":576,"vendor_name":"Cole Haan","total_orders":1588,"total_items_sold":4913,"total_revenue":1374173.71}
+{"vendor_id":535,"vendor_name":"Rockport","total_orders":1587,"total_items_sold":4922,"total_revenue":1373183.6899999999}
+{"vendor_id":51,"vendor_name":"Fila","total_orders":1672,"total_items_sold":5138,"total_revenue":1368123.2999999998}
+{"vendor_id":522,"vendor_name":"Rainbow","total_orders":1662,"total_items_sold":5091,"total_revenue":1359324.3500000001}
+{"vendor_id":484,"vendor_name":"Olukai","total_orders":1647,"total_items_sold":5085,"total_revenue":1348345.1599999992}
+{"vendor_id":455,"vendor_name":"Skechers","total_orders":1678,"total_items_sold":5205,"total_revenue":1336379.4099999995}
+{"vendor_id":137,"vendor_name":"Seafolly","total_orders":1589,"total_items_sold":4941,"total_revenue":1334383.4300000002}
+{"vendor_id":190,"vendor_name":"Rohit Bal","total_orders":1726,"total_items_sold":5275,"total_revenue":1333431.2199999997}
+{"vendor_id":140,"vendor_name":"Christian Louboutin","total_orders":1644,"total_items_sold":5019,"total_revenue":1329007.6599999999}
+{"vendor_id":446,"vendor_name":"Butter London","total_orders":1605,"total_items_sold":4965,"total_revenue":1325267.1700000002}
+{"vendor_id":494,"vendor_name":"Teva","total_orders":1597,"total_items_sold":4920,"total_revenue":1305156.0100000002}
+{"vendor_id":624,"vendor_name":"Havaianas","total_orders":1556,"total_items_sold":4815,"total_revenue":1296506.6800000002}
+{"vendor_id":587,"vendor_name":"Zoya","total_orders":1584,"total_items_sold":4920,"total_revenue":1267857.99}
+{"vendor_id":555,"vendor_name":"New Era","total_orders":1538,"total_items_sold":4748,"total_revenue":1262410.8500000001}
+{"vendor_id":234,"vendor_name":"Dickies","total_orders":1590,"total_items_sold":4868,"total_revenue":1254295.7299999997}
+{"vendor_id":558,"vendor_name":"Make Up For Ever","total_orders":1475,"total_items_sold":4476,"total_revenue":1220085.52}
+{"vendor_id":483,"vendor_name":"Reformation","total_orders":1452,"total_items_sold":4495,"total_revenue":1206489.0}
+{"vendor_id":142,"vendor_name":"Manolo Blahnik","total_orders":1619,"total_items_sold":4888,"total_revenue":1200461.6200000001}
+{"vendor_id":469,"vendor_name":"Supreme","total_orders":1350,"total_items_sold":4216,"total_revenue":1188334.6899999999}
+{"vendor_id":463,"vendor_name":"Real Techniques","total_orders":1371,"total_items_sold":4259,"total_revenue":1178012.7600000002}
+{"vendor_id":536,"vendor_name":"Bally","total_orders":1576,"total_items_sold":4882,"total_revenue":1177392.8500000001}
+{"vendor_id":562,"vendor_name":"OPI","total_orders":1358,"total_items_sold":4267,"total_revenue":1174434.77}
+{"vendor_id":554,"vendor_name":"CND","total_orders":1433,"total_items_sold":4369,"total_revenue":1168045.8199999998}
+{"vendor_id":134,"vendor_name":"Hurley","total_orders":1396,"total_items_sold":4271,"total_revenue":1165468.0899999999}
+{"vendor_id":539,"vendor_name":"Smith & Cult","total_orders":1356,"total_items_sold":4131,"total_revenue":1160737.7499999998}
+{"vendor_id":478,"vendor_name":"Saudi Designers","total_orders":1355,"total_items_sold":4244,"total_revenue":1159427.8699999999}
+{"vendor_id":456,"vendor_name":"EcoTools","total_orders":1337,"total_items_sold":4162,"total_revenue":1155303.7399999998}
+{"vendor_id":528,"vendor_name":"D'NA","total_orders":1416,"total_items_sold":4252,"total_revenue":1144124.1600000004}
+{"vendor_id":452,"vendor_name":"Vitamin A","total_orders":1453,"total_items_sold":4516,"total_revenue":1142463.3699999999}
+{"vendor_id":436,"vendor_name":"Modanisa","total_orders":1374,"total_items_sold":4148,"total_revenue":1130725.4299999999}
+{"vendor_id":479,"vendor_name":"Hayaat Collection","total_orders":1358,"total_items_sold":4144,"total_revenue":1122625.3600000001}
+{"vendor_id":545,"vendor_name":"Beach Riot","total_orders":1278,"total_items_sold":3941,"total_revenue":1117833.73}
+{"vendor_id":515,"vendor_name":"Elf","total_orders":1344,"total_items_sold":4101,"total_revenue":1112422.73}
+{"vendor_id":546,"vendor_name":"Hayah Collection","total_orders":1394,"total_items_sold":4289,"total_revenue":1110554.25}
+{"vendor_id":495,"vendor_name":"Essie","total_orders":1366,"total_items_sold":4189,"total_revenue":1105172.6900000002}
+{"vendor_id":605,"vendor_name":"Sharaarah","total_orders":1319,"total_items_sold":4108,"total_revenue":1099140.8}
+{"vendor_id":138,"vendor_name":"Zimmermann","total_orders":1299,"total_items_sold":4034,"total_revenue":1098212.4900000002}
+{"vendor_id":608,"vendor_name":"e.l.f.","total_orders":1396,"total_items_sold":4263,"total_revenue":1096663.6199999999}
+{"vendor_id":510,"vendor_name":"Abaya Boulevard","total_orders":1274,"total_items_sold":3970,"total_revenue":1093459.6800000002}
+{"vendor_id":516,"vendor_name":"Shadya","total_orders":1385,"total_items_sold":4228,"total_revenue":1088596.4399999999}
+{"vendor_id":135,"vendor_name":"O'Neill","total_orders":1351,"total_items_sold":4132,"total_revenue":1086728.8799999999}
+{"vendor_id":13,"vendor_name":"Givenchy","total_orders":1401,"total_items_sold":4272,"total_revenue":1080303.7800000003}
+{"vendor_id":492,"vendor_name":"La Blanca","total_orders":1364,"total_items_sold":4183,"total_revenue":1076206.5700000001}
+{"vendor_id":563,"vendor_name":"Orly","total_orders":1292,"total_items_sold":3985,"total_revenue":1070970.8500000006}
+{"vendor_id":131,"vendor_name":"Quiksilver","total_orders":1340,"total_items_sold":4093,"total_revenue":1049429.3200000003}
+{"vendor_id":97,"vendor_name":"Lands' End","total_orders":1379,"total_items_sold":4172,"total_revenue":1045409.27}
+{"vendor_id":582,"vendor_name":"Dillard's","total_orders":1279,"total_items_sold":3878,"total_revenue":1038266.9699999999}
+{"vendor_id":491,"vendor_name":"Milani","total_orders":1309,"total_items_sold":3989,"total_revenue":1037003.5399999999}
+{"vendor_id":486,"vendor_name":"Off-White","total_orders":1158,"total_items_sold":3648,"total_revenue":1036487.65}
+{"vendor_id":500,"vendor_name":"Abaya Addict","total_orders":1406,"total_items_sold":4354,"total_revenue":1036360.3300000003}
+{"vendor_id":129,"vendor_name":"Billabong","total_orders":1245,"total_items_sold":3827,"total_revenue":1028194.9799999997}
+{"vendor_id":22,"vendor_name":"Moncler","total_orders":1274,"total_items_sold":3842,"total_revenue":1027020.4399999999}
+{"vendor_id":573,"vendor_name":"Solid & Striped","total_orders":1250,"total_items_sold":3831,"total_revenue":1026269.2599999999}
+{"vendor_id":133,"vendor_name":"Volcom","total_orders":1355,"total_items_sold":4247,"total_revenue":1025489.9800000003}
+{"vendor_id":170,"vendor_name":"Fossil","total_orders":1240,"total_items_sold":3775,"total_revenue":1017719.05}
+{"vendor_id":86,"vendor_name":"Coldwater Creek","total_orders":1275,"total_items_sold":3886,"total_revenue":1014924.61}
+{"vendor_id":428,"vendor_name":"Sigma","total_orders":1160,"total_items_sold":3587,"total_revenue":1009835.5899999999}
+{"vendor_id":514,"vendor_name":"Catalina","total_orders":1333,"total_items_sold":4048,"total_revenue":1009541.7399999999}
+{"vendor_id":429,"vendor_name":"Sally Hansen","total_orders":1330,"total_items_sold":4022,"total_revenue":1001732.61}
+{"vendor_id":610,"vendor_name":"Canada Goose","total_orders":1252,"total_items_sold":3797,"total_revenue":1000611.0}
+{"vendor_id":76,"vendor_name":"Macy's","total_orders":1307,"total_items_sold":3910,"total_revenue":1000173.7499999997}
+{"vendor_id":571,"vendor_name":"Maaji","total_orders":1320,"total_items_sold":4060,"total_revenue":999796.4300000002}
+{"vendor_id":611,"vendor_name":"Deborah Lippmann","total_orders":1255,"total_items_sold":3855,"total_revenue":996455.7800000003}
+{"vendor_id":520,"vendor_name":"Boll & Branch","total_orders":1178,"total_items_sold":3673,"total_revenue":995888.6100000001}
+{"vendor_id":548,"vendor_name":"Venus","total_orders":1278,"total_items_sold":3943,"total_revenue":986841.8400000002}
+{"vendor_id":84,"vendor_name":"White House Black Market","total_orders":1228,"total_items_sold":3753,"total_revenue":983311.47}
+{"vendor_id":81,"vendor_name":"Talbots","total_orders":1095,"total_items_sold":3343,"total_revenue":983067.98}
+{"vendor_id":85,"vendor_name":"Chico's","total_orders":1077,"total_items_sold":3397,"total_revenue":979860.15}
+{"vendor_id":497,"vendor_name":"Shouq","total_orders":1092,"total_items_sold":3329,"total_revenue":952386.7400000003}
+{"vendor_id":468,"vendor_name":"Eileen Fisher","total_orders":1152,"total_items_sold":3500,"total_revenue":944524.05}
+{"vendor_id":116,"vendor_name":"La Perla","total_orders":1167,"total_items_sold":3559,"total_revenue":935693.4699999997}
+{"vendor_id":432,"vendor_name":"MeUndies","total_orders":1112,"total_items_sold":3457,"total_revenue":925902.1800000001}
+{"vendor_id":117,"vendor_name":"Agent Provocateur","total_orders":1090,"total_items_sold":3420,"total_revenue":923192.2400000002}
+{"vendor_id":530,"vendor_name":"Restoration Hardware","total_orders":1050,"total_items_sold":3274,"total_revenue":917960.2899999998}
+{"vendor_id":577,"vendor_name":"Kashmir Loom","total_orders":1169,"total_items_sold":3603,"total_revenue":916500.3799999999}
+{"vendor_id":499,"vendor_name":"L*Space","total_orders":1164,"total_items_sold":3639,"total_revenue":898472.0199999998}
+{"vendor_id":631,"vendor_name":"Wet n Wild","total_orders":1178,"total_items_sold":3635,"total_revenue":895816.0600000003}
+{"vendor_id":132,"vendor_name":"Roxy","total_orders":1094,"total_items_sold":3412,"total_revenue":895588.9799999999}
+{"vendor_id":74,"vendor_name":"Urban Outfitters","total_orders":1092,"total_items_sold":3340,"total_revenue":887287.5600000001}
+{"vendor_id":487,"vendor_name":"Brooklinen","total_orders":1089,"total_items_sold":3337,"total_revenue":885271.8300000003}
+{"vendor_id":537,"vendor_name":"Pashmina Boutique","total_orders":1073,"total_items_sold":3230,"total_revenue":854078.13}
+{"vendor_id":644,"vendor_name":"Brooks","total_orders":1153,"total_items_sold":3504,"total_revenue":833762.08}
+{"vendor_id":508,"vendor_name":"Andrew Christian","total_orders":1039,"total_items_sold":3178,"total_revenue":833297.2099999997}
+{"vendor_id":564,"vendor_name":"Fabletics","total_orders":1021,"total_items_sold":3129,"total_revenue":818535.9199999999}
+{"vendor_id":569,"vendor_name":"Alden","total_orders":919,"total_items_sold":2917,"total_revenue":815935.92}
+{"vendor_id":613,"vendor_name":"On Running","total_orders":996,"total_items_sold":3100,"total_revenue":804791.1}
+{"vendor_id":509,"vendor_name":"Pottery Barn","total_orders":1052,"total_items_sold":3236,"total_revenue":803124.1099999998}
+{"vendor_id":621,"vendor_name":"Saxx","total_orders":942,"total_items_sold":2861,"total_revenue":802550.2999999999}
+{"vendor_id":512,"vendor_name":"True & Co","total_orders":948,"total_items_sold":2923,"total_revenue":797965.92}
+{"vendor_id":638,"vendor_name":"Allen Edmonds","total_orders":900,"total_items_sold":2746,"total_revenue":787371.45}
+{"vendor_id":474,"vendor_name":"Juicy Couture","total_orders":890,"total_items_sold":2717,"total_revenue":781954.3099999998}
+{"vendor_id":98,"vendor_name":"L.L.Bean","total_orders":959,"total_items_sold":2986,"total_revenue":781416.0100000001}
+{"vendor_id":521,"vendor_name":"Acorn","total_orders":910,"total_items_sold":2777,"total_revenue":780339.5499999998}
+{"vendor_id":476,"vendor_name":"Sweaty Betty","total_orders":882,"total_items_sold":2703,"total_revenue":770225.1100000001}
+{"vendor_id":475,"vendor_name":"J.Jill","total_orders":984,"total_items_sold":2977,"total_revenue":769729.48}
+{"vendor_id":55,"vendor_name":"Mizuno","total_orders":962,"total_items_sold":2994,"total_revenue":766685.4600000001}
+{"vendor_id":532,"vendor_name":"Altra","total_orders":994,"total_items_sold":3078,"total_revenue":762286.49}
+{"vendor_id":557,"vendor_name":"Parachute","total_orders":997,"total_items_sold":3069,"total_revenue":759690.2000000001}
+{"vendor_id":602,"vendor_name":"2(x)ist","total_orders":900,"total_items_sold":2764,"total_revenue":758783.5599999999}
+{"vendor_id":501,"vendor_name":"PajamaGram","total_orders":947,"total_items_sold":2943,"total_revenue":755876.9199999999}
+{"vendor_id":442,"vendor_name":"Hoka One One","total_orders":928,"total_items_sold":2848,"total_revenue":755721.5100000002}
+{"vendor_id":120,"vendor_name":"Commando","total_orders":888,"total_items_sold":2683,"total_revenue":748532.4500000001}
+{"vendor_id":625,"vendor_name":"Sleepy Jones","total_orders":1035,"total_items_sold":3122,"total_revenue":747937.24}
+{"vendor_id":595,"vendor_name":"Florsheim","total_orders":826,"total_items_sold":2586,"total_revenue":742211.42}
+{"vendor_id":445,"vendor_name":"Magnanni","total_orders":841,"total_items_sold":2677,"total_revenue":739803.74}
+{"vendor_id":249,"vendor_name":"Mountain Hardwear","total_orders":851,"total_items_sold":2635,"total_revenue":733823.3800000001}
+{"vendor_id":449,"vendor_name":"Dearfoams","total_orders":882,"total_items_sold":2702,"total_revenue":732088.85}
+{"vendor_id":552,"vendor_name":"Manyavar","total_orders":939,"total_items_sold":2827,"total_revenue":723852.5900000001}
+{"vendor_id":282,"vendor_name":"Smashbox","total_orders":784,"total_items_sold":2453,"total_revenue":718685.6699999999}
+{"vendor_id":271,"vendor_name":"Shiseido","total_orders":860,"total_items_sold":2625,"total_revenue":715169.78}
+{"vendor_id":152,"vendor_name":"Dr. Martens","total_orders":819,"total_items_sold":2613,"total_revenue":711503.54}
+{"vendor_id":591,"vendor_name":"Pair of Thieves","total_orders":887,"total_items_sold":2667,"total_revenue":705282.7}
+{"vendor_id":517,"vendor_name":"Lively","total_orders":858,"total_items_sold":2665,"total_revenue":704657.5199999999}
+{"vendor_id":94,"vendor_name":"Wrangler","total_orders":787,"total_items_sold":2367,"total_revenue":700510.9400000001}
+{"vendor_id":593,"vendor_name":"Blundstone","total_orders":823,"total_items_sold":2547,"total_revenue":698447.6899999999}
+{"vendor_id":580,"vendor_name":"Outdoor Voices","total_orders":788,"total_items_sold":2433,"total_revenue":694232.34}
+{"vendor_id":584,"vendor_name":"SpaRitual","total_orders":761,"total_items_sold":2266,"total_revenue":691572.8500000001}
+{"vendor_id":526,"vendor_name":"Johnston & Murphy","total_orders":872,"total_items_sold":2658,"total_revenue":690311.8700000001}
+{"vendor_id":534,"vendor_name":"Glerups","total_orders":895,"total_items_sold":2706,"total_revenue":687951.95}
+{"vendor_id":533,"vendor_name":"Hurraw!","total_orders":785,"total_items_sold":2426,"total_revenue":687257.2000000001}
+{"vendor_id":544,"vendor_name":"Ebbets Field","total_orders":803,"total_items_sold":2462,"total_revenue":685820.6400000001}
+{"vendor_id":448,"vendor_name":"Panache","total_orders":897,"total_items_sold":2735,"total_revenue":679345.3}
+{"vendor_id":583,"vendor_name":"Kat Von D","total_orders":789,"total_items_sold":2517,"total_revenue":678037.8}
+{"vendor_id":609,"vendor_name":"Haflinger","total_orders":837,"total_items_sold":2525,"total_revenue":667589.0199999999}
+{"vendor_id":616,"vendor_name":"Mackage","total_orders":778,"total_items_sold":2405,"total_revenue":665993.37}
+{"vendor_id":511,"vendor_name":"Bruno Magli","total_orders":799,"total_items_sold":2370,"total_revenue":655203.6399999999}
+{"vendor_id":56,"vendor_name":"Saucony","total_orders":803,"total_items_sold":2514,"total_revenue":645960.58}
+{"vendor_id":541,"vendor_name":"Dr. Bronner's","total_orders":749,"total_items_sold":2350,"total_revenue":645458.9999999999}
+{"vendor_id":560,"vendor_name":"Suitsupply","total_orders":798,"total_items_sold":2438,"total_revenue":642966.1799999999}
+{"vendor_id":626,"vendor_name":"Bellroy","total_orders":678,"total_items_sold":2107,"total_revenue":642910.96}
+{"vendor_id":604,"vendor_name":"Paul Smith","total_orders":826,"total_items_sold":2512,"total_revenue":640251.59}
+{"vendor_id":127,"vendor_name":"Arena","total_orders":807,"total_items_sold":2457,"total_revenue":638394.6200000001}
+{"vendor_id":617,"vendor_name":"Brioni","total_orders":726,"total_items_sold":2311,"total_revenue":636741.7000000001}
+{"vendor_id":465,"vendor_name":"Reef","total_orders":837,"total_items_sold":2607,"total_revenue":636142.84}
+{"vendor_id":161,"vendor_name":"Naturalizer","total_orders":779,"total_items_sold":2375,"total_revenue":630545.0300000001}
+{"vendor_id":443,"vendor_name":"Bass","total_orders":777,"total_items_sold":2350,"total_revenue":630492.38}
+{"vendor_id":407,"vendor_name":"Natasha Denona","total_orders":724,"total_items_sold":2139,"total_revenue":628391.9300000001}
+{"vendor_id":306,"vendor_name":"Burt's Bees","total_orders":766,"total_items_sold":2381,"total_revenue":627024.17}
+{"vendor_id":618,"vendor_name":"ChapStick","total_orders":809,"total_items_sold":2479,"total_revenue":626125.3200000001}
+{"vendor_id":458,"vendor_name":"Sebago","total_orders":794,"total_items_sold":2453,"total_revenue":624842.96}
+{"vendor_id":104,"vendor_name":"7 For All Mankind","total_orders":726,"total_items_sold":2210,"total_revenue":623785.1600000001}
+{"vendor_id":431,"vendor_name":"Palmer's","total_orders":745,"total_items_sold":2316,"total_revenue":623191.1700000002}
+{"vendor_id":633,"vendor_name":"Elomi","total_orders":813,"total_items_sold":2568,"total_revenue":620839.5400000003}
+{"vendor_id":615,"vendor_name":"Blistex","total_orders":705,"total_items_sold":2138,"total_revenue":620248.9000000001}
+{"vendor_id":566,"vendor_name":"Ferragamo","total_orders":682,"total_items_sold":2150,"total_revenue":617849.1100000001}
+{"vendor_id":549,"vendor_name":"EOS","total_orders":759,"total_items_sold":2337,"total_revenue":617813.09}
+{"vendor_id":447,"vendor_name":"Beautyblender","total_orders":692,"total_items_sold":2116,"total_revenue":615140.3}
+{"vendor_id":565,"vendor_name":"Brixton","total_orders":774,"total_items_sold":2328,"total_revenue":612415.7900000002}
+{"vendor_id":105,"vendor_name":"Frame","total_orders":713,"total_items_sold":2142,"total_revenue":609205.9899999999}
+{"vendor_id":505,"vendor_name":"Carrera","total_orders":707,"total_items_sold":2164,"total_revenue":604553.1699999999}
+{"vendor_id":620,"vendor_name":"Freya","total_orders":774,"total_items_sold":2332,"total_revenue":602823.5400000003}
+{"vendor_id":540,"vendor_name":"Sorel","total_orders":706,"total_items_sold":2110,"total_revenue":601067.4299999999}
+{"vendor_id":547,"vendor_name":"Zoeva","total_orders":707,"total_items_sold":2168,"total_revenue":600797.9199999999}
+{"vendor_id":453,"vendor_name":"Stetson","total_orders":748,"total_items_sold":2254,"total_revenue":600265.76}
+{"vendor_id":503,"vendor_name":"Church's","total_orders":784,"total_items_sold":2409,"total_revenue":598807.2199999999}
+{"vendor_id":597,"vendor_name":"Hunter","total_orders":685,"total_items_sold":2167,"total_revenue":595438.2599999999}
+{"vendor_id":480,"vendor_name":"Zegna","total_orders":697,"total_items_sold":2138,"total_revenue":595025.7699999999}
+{"vendor_id":645,"vendor_name":"Minnetonka","total_orders":730,"total_items_sold":2186,"total_revenue":594739.53}
+{"vendor_id":551,"vendor_name":"Alexander Wang","total_orders":711,"total_items_sold":2164,"total_revenue":594715.3100000001}
+{"vendor_id":437,"vendor_name":"Seche","total_orders":761,"total_items_sold":2313,"total_revenue":594136.79}
+{"vendor_id":600,"vendor_name":"Priti NYC","total_orders":715,"total_items_sold":2184,"total_revenue":593922.5500000002}
+{"vendor_id":477,"vendor_name":"Stila","total_orders":792,"total_items_sold":2466,"total_revenue":593393.0499999999}
+{"vendor_id":524,"vendor_name":"Coola","total_orders":654,"total_items_sold":2026,"total_revenue":592871.1899999999}
+{"vendor_id":647,"vendor_name":"Juvia's Place","total_orders":695,"total_items_sold":2114,"total_revenue":592724.13}
+{"vendor_id":639,"vendor_name":"Frye","total_orders":765,"total_items_sold":2337,"total_revenue":592348.6600000001}
+{"vendor_id":581,"vendor_name":"Wells Lamont","total_orders":747,"total_items_sold":2283,"total_revenue":591482.5899999999}
+{"vendor_id":470,"vendor_name":"EltaMD","total_orders":792,"total_items_sold":2429,"total_revenue":590679.7}
+{"vendor_id":553,"vendor_name":"Kenneth Cole","total_orders":681,"total_items_sold":2077,"total_revenue":587427.9000000001}
+{"vendor_id":585,"vendor_name":"Panerai","total_orders":668,"total_items_sold":2113,"total_revenue":586949.0}
+{"vendor_id":603,"vendor_name":"Blue Lizard","total_orders":724,"total_items_sold":2233,"total_revenue":580953.5600000001}
+{"vendor_id":101,"vendor_name":"True Religion","total_orders":719,"total_items_sold":2225,"total_revenue":577979.6399999999}
+{"vendor_id":464,"vendor_name":"Common Projects","total_orders":741,"total_items_sold":2298,"total_revenue":577518.97}
+{"vendor_id":489,"vendor_name":"Burton","total_orders":679,"total_items_sold":2155,"total_revenue":577410.52}
+{"vendor_id":461,"vendor_name":"Physicians Formula","total_orders":668,"total_items_sold":2078,"total_revenue":577247.2599999998}
+{"vendor_id":488,"vendor_name":"Onsen","total_orders":693,"total_items_sold":2110,"total_revenue":571327.6399999999}
+{"vendor_id":542,"vendor_name":"Mentholatum","total_orders":686,"total_items_sold":2134,"total_revenue":568840.77}
+{"vendor_id":481,"vendor_name":"Supergoop!","total_orders":691,"total_items_sold":2124,"total_revenue":568127.1900000001}
+{"vendor_id":50,"vendor_name":"Vans","total_orders":688,"total_items_sold":2086,"total_revenue":567051.04}
+{"vendor_id":165,"vendor_name":"Oakley","total_orders":668,"total_items_sold":2061,"total_revenue":565515.6}
+{"vendor_id":635,"vendor_name":"Zella","total_orders":742,"total_items_sold":2248,"total_revenue":564732.23}
+{"vendor_id":636,"vendor_name":"Daniel Wellington","total_orders":753,"total_items_sold":2200,"total_revenue":560744.8900000001}
+{"vendor_id":39,"vendor_name":"Ted Baker","total_orders":667,"total_items_sold":2059,"total_revenue":559870.8100000001}
+{"vendor_id":440,"vendor_name":"Bvlgari","total_orders":625,"total_items_sold":1934,"total_revenue":556309.41}
+{"vendor_id":642,"vendor_name":"KL Polish","total_orders":695,"total_items_sold":2093,"total_revenue":556069.11}
+{"vendor_id":598,"vendor_name":"Cutex","total_orders":713,"total_items_sold":2204,"total_revenue":555880.49}
+{"vendor_id":16,"vendor_name":"Alexander McQueen","total_orders":657,"total_items_sold":2033,"total_revenue":551910.7899999999}
+{"vendor_id":646,"vendor_name":"Giorgio Armani","total_orders":678,"total_items_sold":2047,"total_revenue":551790.5699999999}
+{"vendor_id":286,"vendor_name":"The Ordinary","total_orders":715,"total_items_sold":2168,"total_revenue":551153.0}
+{"vendor_id":596,"vendor_name":"Max Mara","total_orders":702,"total_items_sold":2165,"total_revenue":549715.3600000001}
+{"vendor_id":451,"vendor_name":"47 Brand","total_orders":686,"total_items_sold":2082,"total_revenue":546945.53}
+{"vendor_id":473,"vendor_name":"North Face","total_orders":676,"total_items_sold":2067,"total_revenue":546577.0600000001}
+{"vendor_id":504,"vendor_name":"Deuter","total_orders":679,"total_items_sold":2041,"total_revenue":543921.01}
+{"vendor_id":168,"vendor_name":"Persol","total_orders":686,"total_items_sold":2023,"total_revenue":543077.2200000001}
+{"vendor_id":550,"vendor_name":"Black Diamond","total_orders":644,"total_items_sold":2015,"total_revenue":541696.9}
+{"vendor_id":525,"vendor_name":"Coppertone","total_orders":697,"total_items_sold":2132,"total_revenue":538166.76}
+{"vendor_id":370,"vendor_name":"Laneige","total_orders":708,"total_items_sold":2152,"total_revenue":537568.6800000001}
+{"vendor_id":103,"vendor_name":"AG Jeans","total_orders":643,"total_items_sold":1979,"total_revenue":537330.3199999999}
+{"vendor_id":166,"vendor_name":"Maui Jim","total_orders":678,"total_items_sold":2073,"total_revenue":537201.09}
+{"vendor_id":18,"vendor_name":"Celine","total_orders":642,"total_items_sold":1980,"total_revenue":537117.28}
+{"vendor_id":179,"vendor_name":"JanSport","total_orders":664,"total_items_sold":2052,"total_revenue":537115.5700000001}
+{"vendor_id":629,"vendor_name":"Aquaphor","total_orders":622,"total_items_sold":2004,"total_revenue":536797.4500000001}
+{"vendor_id":460,"vendor_name":"Omega","total_orders":674,"total_items_sold":2055,"total_revenue":535622.3300000001}
+{"vendor_id":58,"vendor_name":"Yeezy","total_orders":631,"total_items_sold":1903,"total_revenue":533867.38}
+{"vendor_id":176,"vendor_name":"Longchamp","total_orders":671,"total_items_sold":2073,"total_revenue":532573.9800000001}
+{"vendor_id":590,"vendor_name":"ColourPop","total_orders":670,"total_items_sold":2098,"total_revenue":532061.3799999999}
+{"vendor_id":588,"vendor_name":"China Glaze","total_orders":678,"total_items_sold":2047,"total_revenue":530878.6699999999}
+{"vendor_id":641,"vendor_name":"MCM","total_orders":646,"total_items_sold":1924,"total_revenue":530845.2900000002}
+{"vendor_id":126,"vendor_name":"Speedo","total_orders":723,"total_items_sold":2192,"total_revenue":530448.4700000001}
+{"vendor_id":57,"vendor_name":"Jordan","total_orders":700,"total_items_sold":2215,"total_revenue":525929.8699999999}
+{"vendor_id":637,"vendor_name":"Osprey","total_orders":667,"total_items_sold":1977,"total_revenue":524964.13}
+{"vendor_id":256,"vendor_name":"Fj\u00e4llr\u00e4ven","total_orders":618,"total_items_sold":1944,"total_revenue":524732.62}
+{"vendor_id":627,"vendor_name":"Bailey","total_orders":637,"total_items_sold":1918,"total_revenue":523661.4599999999}
+{"vendor_id":570,"vendor_name":"Secrid","total_orders":627,"total_items_sold":1895,"total_revenue":522528.02}
+{"vendor_id":606,"vendor_name":"Miu Miu","total_orders":669,"total_items_sold":2056,"total_revenue":520252.92}
+{"vendor_id":628,"vendor_name":"Skindinavia","total_orders":656,"total_items_sold":2002,"total_revenue":520121.2099999999}
+{"vendor_id":561,"vendor_name":"Ridge","total_orders":648,"total_items_sold":1915,"total_revenue":519751.36}
+{"vendor_id":518,"vendor_name":"MVMT","total_orders":637,"total_items_sold":1981,"total_revenue":516590.23}
+{"vendor_id":594,"vendor_name":"Audemars Piguet","total_orders":604,"total_items_sold":1856,"total_revenue":515476.6900000001}
+{"vendor_id":592,"vendor_name":"Chaco","total_orders":691,"total_items_sold":2096,"total_revenue":513791.0999999999}
+{"vendor_id":601,"vendor_name":"Vacheron Constantin","total_orders":627,"total_items_sold":1887,"total_revenue":511238.89}
+{"vendor_id":128,"vendor_name":"TYR","total_orders":690,"total_items_sold":2102,"total_revenue":509526.9299999998}
+{"vendor_id":622,"vendor_name":"Becca","total_orders":586,"total_items_sold":1800,"total_revenue":506080.66}
+{"vendor_id":612,"vendor_name":"Vaseline","total_orders":653,"total_items_sold":2015,"total_revenue":505744.95}
+{"vendor_id":111,"vendor_name":"Diesel","total_orders":684,"total_items_sold":2125,"total_revenue":503109.3599999998}
+{"vendor_id":507,"vendor_name":"Rolex","total_orders":635,"total_items_sold":1910,"total_revenue":502543.1599999999}
+{"vendor_id":578,"vendor_name":"Tumi","total_orders":618,"total_items_sold":1905,"total_revenue":501888.3100000001}
+{"vendor_id":164,"vendor_name":"Ray-Ban","total_orders":651,"total_items_sold":2015,"total_revenue":500585.52}
+{"vendor_id":174,"vendor_name":"Seiko","total_orders":601,"total_items_sold":1844,"total_revenue":498380.0900000001}
+{"vendor_id":151,"vendor_name":"Timberland","total_orders":688,"total_items_sold":2067,"total_revenue":498132.95}
+{"vendor_id":632,"vendor_name":"Woolrich","total_orders":726,"total_items_sold":2181,"total_revenue":497300.9}
+{"vendor_id":433,"vendor_name":"Badger","total_orders":694,"total_items_sold":2075,"total_revenue":495129.3699999999}
+{"vendor_id":181,"vendor_name":"Samsonite","total_orders":614,"total_items_sold":1821,"total_revenue":492888.7199999999}
+{"vendor_id":459,"vendor_name":"Makeup Geek","total_orders":606,"total_items_sold":1772,"total_revenue":489329.37}
+{"vendor_id":102,"vendor_name":"Citizens of Humanity","total_orders":634,"total_items_sold":1985,"total_revenue":481453.3600000001}
+{"vendor_id":599,"vendor_name":"Cartier","total_orders":628,"total_items_sold":1860,"total_revenue":476966.3599999999}
+{"vendor_id":49,"vendor_name":"Converse","total_orders":605,"total_items_sold":1854,"total_revenue":473546.28}
+{"vendor_id":350,"vendor_name":"Origins","total_orders":618,"total_items_sold":1979,"total_revenue":467553.2000000001}
+{"vendor_id":568,"vendor_name":"Breitling","total_orders":583,"total_items_sold":1799,"total_revenue":464321.29}
+{"vendor_id":172,"vendor_name":"Timex","total_orders":554,"total_items_sold":1699,"total_revenue":463485.21}
+{"vendor_id":538,"vendor_name":"Tissot","total_orders":620,"total_items_sold":1909,"total_revenue":463477.45}
+{"vendor_id":575,"vendor_name":"Hestra","total_orders":591,"total_items_sold":1846,"total_revenue":461023.02}
+{"vendor_id":496,"vendor_name":"Apple","total_orders":572,"total_items_sold":1753,"total_revenue":460830.49}
+{"vendor_id":643,"vendor_name":"Tenoverten","total_orders":598,"total_items_sold":1876,"total_revenue":459851.4099999999}
+{"vendor_id":173,"vendor_name":"Casio","total_orders":554,"total_items_sold":1696,"total_revenue":458690.4400000001}
+{"vendor_id":567,"vendor_name":"Hublot","total_orders":614,"total_items_sold":1889,"total_revenue":458037.25}
+{"vendor_id":579,"vendor_name":"BH Cosmetics","total_orders":636,"total_items_sold":1878,"total_revenue":449371.6499999999}
+{"vendor_id":630,"vendor_name":"Carmex","total_orders":610,"total_items_sold":1814,"total_revenue":448671.0}
+{"vendor_id":180,"vendor_name":"Eastpak","total_orders":544,"total_items_sold":1632,"total_revenue":447405.51}
+{"vendor_id":586,"vendor_name":"Veja","total_orders":591,"total_items_sold":1773,"total_revenue":446811.76}
+{"vendor_id":106,"vendor_name":"Paige","total_orders":545,"total_items_sold":1691,"total_revenue":444542.2499999999}
+{"vendor_id":498,"vendor_name":"Longines","total_orders":600,"total_items_sold":1826,"total_revenue":435327.8799999999}
+{"vendor_id":175,"vendor_name":"Citizen","total_orders":468,"total_items_sold":1460,"total_revenue":434739.2999999999}
+{"vendor_id":572,"vendor_name":"IWC","total_orders":546,"total_items_sold":1674,"total_revenue":434419.5799999999}
+{"vendor_id":336,"vendor_name":"Jack Black","total_orders":578,"total_items_sold":1745,"total_revenue":432952.93}
+{"vendor_id":614,"vendor_name":"Patek Philippe","total_orders":589,"total_items_sold":1774,"total_revenue":432949.7099999999}
+{"vendor_id":513,"vendor_name":"Gregory","total_orders":533,"total_items_sold":1663,"total_revenue":424707.97}
+{"vendor_id":556,"vendor_name":"Tag Heuer","total_orders":481,"total_items_sold":1487,"total_revenue":423911.25}
+{"vendor_id":574,"vendor_name":"Banana Boat","total_orders":587,"total_items_sold":1848,"total_revenue":423629.1699999999}
+{"vendor_id":19,"vendor_name":"Loewe","total_orders":556,"total_items_sold":1665,"total_revenue":420953.99}
+{"vendor_id":95,"vendor_name":"Lee","total_orders":562,"total_items_sold":1628,"total_revenue":415028.5200000001}
+{"vendor_id":634,"vendor_name":"Jaeger-LeCoultre","total_orders":511,"total_items_sold":1583,"total_revenue":409998.12}
+{"vendor_id":640,"vendor_name":"Chlo\u00e9","total_orders":551,"total_items_sold":1705,"total_revenue":404234.97}
+{"vendor_id":619,"vendor_name":"Mansur Gavriel","total_orders":538,"total_items_sold":1651,"total_revenue":403980.2699999999}
+{"vendor_id":506,"vendor_name":"Swissgear","total_orders":556,"total_items_sold":1690,"total_revenue":375089.2999999999}
